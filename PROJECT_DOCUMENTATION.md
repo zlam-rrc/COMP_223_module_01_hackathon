@@ -7,7 +7,7 @@
 ## Team Members:
 
 -   Name 1
--   Name 2
+-   Patrick Luke Dela Torre
 -   Name 3
 
 ## Member Contributions:
@@ -16,9 +16,9 @@
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Name 2: Patrick Luke Dela Torre
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for creating the section for MOBA terminologies and Mobile Legends MOBA game., focusing on sections, navigation and lists.
 
 ### Name 3:
 
